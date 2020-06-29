@@ -2,8 +2,8 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'William Blythe'
+description: 'I do some stuff, and some things.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -12,13 +12,13 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
+facebook: 'willyb321'
+#twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-instagram: 'myinsta'
+instagram: 'blythe.william'
 #pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
+#youtube: 'myyoutube'
+github-user: 'willyb321'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -28,14 +28,14 @@ github-user: 'mygithub'
 #reddit: ''
 #rubygems: ''
 #medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+#tumblr: 'mytumblr'
+#weibo: 'myweibo'
+#vk: 'myvk'
+#blog_url: 'myblog.blog.com'
+#email: 'hello@example.com'
+#messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [facebook, instagram, github-user]
 
 # Advanced settings
 plugins:
