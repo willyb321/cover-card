@@ -13,15 +13,16 @@ favicon: 'favicon.ico'
 # Online profiles
 #dribbble: 'mydribbble'
 facebook: 'willyb321'
-#twitter: 'mytwitter'
+twitter: 'willyb321'
 #linkedin: 'mylinkedin'
 instagram: 'blythe.william'
 #pinterest: 'mypinterest'
-#youtube: 'myyoutube'
-github-user: 'willyb321'
+youtube: 'willyb321'
+github: 'willyb321'
+snapchat: 'willybthonk'
 #gitlab-user: ''
 #codepen: ''
-#steam: ''
+steam: 'willyb321'
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
@@ -33,9 +34,9 @@ github-user: 'willyb321'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
 #email: 'hello@example.com'
-#messenger: 'myfbchat'
+messenger: 'willyb321'
 
-social-links-order: [facebook, instagram, github-user]
+social-links-order: [facebook, messenger, instagram, snapchat, youtube, twitter, steam, github]
 
 # Advanced settings
 plugins:
@@ -89,7 +90,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: github
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
 
